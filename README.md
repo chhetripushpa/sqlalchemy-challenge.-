@@ -1,3 +1,3 @@
 # sqlalchemy-challenge.-
 
-Only initail files added
+# Only initial files added
