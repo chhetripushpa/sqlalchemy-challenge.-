@@ -1,4 +1,5 @@
 # sqlalchemy-challenge.-
+<<<<<<< HEAD
 Honolulu Climate Analysis
 
 Project Overview
@@ -38,3 +39,6 @@ Identify seasonal weather trends.
 Create plots to illustrate precipitation trends.
 
 Generate histograms for temperature distributions.
+=======
+
+>>>>>>> 9066f0a09cad513fb3fa023016a0c1478f959104
