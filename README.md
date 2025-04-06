@@ -16,7 +16,7 @@ Visualizing key metrics to aid in making informed travel decisions.
 
 Python 3.10, Jupyter Notebook, SQLAlchemy, Pandas, Matplotlib, SQLite
 
-##Steps to Complete the Project
+## Steps to Complete the Project
 
 1. Reflect the Existing Database
 
@@ -45,6 +45,7 @@ Create a histogram to show the distribution of temperature observations.
 ## Result Analysis
 
 The most commonly recorded temperatures ranged between 73°F and 78°F, indicating a consistently warm climate ideal for vacationing.
+
 While most days experienced low rainfall (under 1 inch), there were several significant spikes, with some days reaching over 6 inches (max 6.7). These occasional heavy rain events indicate variability in precipitation despite the overall trend of mild daily rainfall with 75% chance with 0.13 inch.
 
 
