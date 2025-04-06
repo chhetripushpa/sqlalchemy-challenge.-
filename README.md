@@ -6,11 +6,11 @@ Planning a vacation to Honolulu, Hawaii? ☀️ This project helps analyze histo
 
 This climate analysis project involves:
 
-Reflecting an existing SQLite climate database into a Python model using SQLAlchemy.
+- Reflecting an existing SQLite climate database into a Python model using SQLAlchemy.
 
-Performing data exploration and analysis on temperature and precipitation trends.
+- Performing data exploration and analysis on temperature and precipitation trends.
 
-Visualizing key metrics to aid in making informed travel decisions.
+- Visualizing key metrics to aid in making informed travel decisions.
 
 ## 🧰 Technologies Used
 
