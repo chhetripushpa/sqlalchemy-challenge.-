@@ -16,7 +16,7 @@ Visualizing key metrics to aid in making informed travel decisions.
 
 Python 3.10, Jupyter Notebook, SQLAlchemy, Pandas, Matplotlib, SQLite
 
-## Steps to Complete the Project
+## 🔍Steps to Complete the Project
 
 1. Reflect the Existing Database
 
@@ -42,7 +42,7 @@ Generate a line plot using Matplotlib to visualize daily precipitation levels ov
 
 Create a histogram to show the distribution of temperature observations.
 
-## Result Analysis
+## 📊Result Analysis
 
 The most commonly recorded temperatures ranged between 73°F and 78°F, indicating a consistently warm climate ideal for vacationing.
 
